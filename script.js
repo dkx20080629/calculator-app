@@ -55,4 +55,3 @@ function calculatePercentage() {
         }, 1500);
     }
 }
-//test message
